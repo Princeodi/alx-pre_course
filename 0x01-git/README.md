@@ -1,1 +1,1 @@
-My new readme
+Every day is a learning day.
